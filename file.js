@@ -49,6 +49,3 @@ console.log("connexion reussite")
 });
 
 app.listen(3000,'10.10.20.21');
-
-
-
